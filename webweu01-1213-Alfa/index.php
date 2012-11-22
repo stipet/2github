@@ -3,7 +3,7 @@
   <head>
     <meta charset=utf-8 />
     <style>
-    /* Länka till extern css-fil här - använd link style= */
+    /* Länka till extern css-fil här - använd ()link style=o.s.v.) */
     
     body {
         background-color: silver;
